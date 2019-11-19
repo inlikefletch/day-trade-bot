@@ -18,7 +18,7 @@ At market close, I analyze all Nasdaq and NYSE stocks and determine which to buy
 Stocks meeting the above requirements are posted to a daily report.
 
 ## Step 3: Choose brokerage
-Take your pick of a brokerage.
+Take your pick of a brokerage with an API.
 
 ## Step 4: Set buy/sell trigger
 I check for the following intraday movement against the above daily report's stocks:
